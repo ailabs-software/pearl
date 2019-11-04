@@ -1,0 +1,100 @@
+<component name="libraryTable">
+  <library name="Dart Packages" type="DartPackagesLibraryType">
+    <properties>
+      <option name="packageNameToDirsMap">
+        <entry key="async">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/async-2.4.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="charcode">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="collection">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/collection-1.14.12/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="csslib_vendored">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../deployment/dartpackages/csslib_vendored/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="dg6library">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../deployment/dartpackages/dg6library/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="jclosure">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../deployment/dartpackages/jclosure/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="js">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/js-0.6.1+1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="jtiny">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../deployment/dartpackages/jtiny/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="path">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="source_span">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="term_glyph">
+          <value>
+            <list>
+              <option value="/home/shopwindow/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+      </option>
+    </properties>
+    <CLASSES>
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/async-2.4.0/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/collection-1.14.12/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/js-0.6.1+1/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/path-1.6.4/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/source_span-1.5.5/lib" />
+      <root url="file:///home/shopwindow/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../deployment/dartpackages/csslib_vendored/lib" />
+      <root url="file://$PROJECT_DIR$/../deployment/dartpackages/dg6library/lib" />
+      <root url="file://$PROJECT_DIR$/../deployment/dartpackages/jclosure/lib" />
+      <root url="file://$PROJECT_DIR$/../deployment/dartpackages/jtiny/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
